@@ -9,6 +9,7 @@
 # VSCode
 .vscode/
 *.code-workspace
+**/.venv
 
 # MZinga local clone
 #mzinga/
